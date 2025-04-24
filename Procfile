@@ -1,1 +1,1 @@
-monitor: python bot 3.py
+monitor: python bot.py
